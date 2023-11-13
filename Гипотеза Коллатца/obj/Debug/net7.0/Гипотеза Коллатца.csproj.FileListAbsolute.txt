@@ -1,0 +1,14 @@
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.GeneratedMSBuildEditorConfig.editorconfig
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.AssemblyInfoInputs.cache
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.AssemblyInfo.cs
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.csproj.CoreCompileInputs.cache
+C:\zxc\Гипотеза Коллатца\bin\Debug\net7.0\Гипотеза Коллатца.exe
+C:\zxc\Гипотеза Коллатца\bin\Debug\net7.0\Гипотеза Коллатца.deps.json
+C:\zxc\Гипотеза Коллатца\bin\Debug\net7.0\Гипотеза Коллатца.runtimeconfig.json
+C:\zxc\Гипотеза Коллатца\bin\Debug\net7.0\Гипотеза Коллатца.dll
+C:\zxc\Гипотеза Коллатца\bin\Debug\net7.0\Гипотеза Коллатца.pdb
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.dll
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\refint\Гипотеза Коллатца.dll
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.pdb
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\Гипотеза Коллатца.genruntimeconfig.cache
+C:\zxc\Гипотеза Коллатца\obj\Debug\net7.0\ref\Гипотеза Коллатца.dll

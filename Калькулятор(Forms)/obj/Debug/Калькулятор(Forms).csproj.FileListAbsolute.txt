@@ -1,0 +1,10 @@
+C:\zxc\Калькулятор(Forms)\bin\Debug\Калькулятор(Forms).exe.config
+C:\zxc\Калькулятор(Forms)\bin\Debug\Калькулятор(Forms).exe
+C:\zxc\Калькулятор(Forms)\bin\Debug\Калькулятор(Forms).pdb
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор(Forms).csproj.AssemblyReference.cache
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор_Forms_.Form1.resources
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор_Forms_.Properties.Resources.resources
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор(Forms).csproj.GenerateResource.cache
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор(Forms).csproj.CoreCompileInputs.cache
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор(Forms).exe
+C:\zxc\Калькулятор(Forms)\obj\Debug\Калькулятор(Forms).pdb

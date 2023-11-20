@@ -1,0 +1,10 @@
+C:\zxc\note taking program\bin\Debug\note taking program.exe.config
+C:\zxc\note taking program\bin\Debug\note taking program.exe
+C:\zxc\note taking program\bin\Debug\note taking program.pdb
+C:\zxc\note taking program\obj\Debug\note taking program.csproj.AssemblyReference.cache
+C:\zxc\note taking program\obj\Debug\note_taking_program.Form1.resources
+C:\zxc\note taking program\obj\Debug\note_taking_program.Properties.Resources.resources
+C:\zxc\note taking program\obj\Debug\note taking program.csproj.GenerateResource.cache
+C:\zxc\note taking program\obj\Debug\note taking program.csproj.CoreCompileInputs.cache
+C:\zxc\note taking program\obj\Debug\note taking program.exe
+C:\zxc\note taking program\obj\Debug\note taking program.pdb
